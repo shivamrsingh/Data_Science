@@ -1,4 +1,4 @@
-# Data Analysis and Machine Learning Project
+# Credit Card Fraudulent 
 
 This project involves data analysis and visualization using Python, MATLAB, and Seaborn. The data is filtered to remove all null values, and a train-test split method is used to prepare the data for machine learning algorithms. 
 The model's accuracy is then tested and evaluated.
